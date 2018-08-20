@@ -1,0 +1,6 @@
+{
+    "name": "Panel to Bottom",
+    "description": "Move top panel to bottom",
+    "uuid": "panel-to-bottom@amezin.github.com",
+    "shell-version": ["3.28"]
+}
